@@ -1,0 +1,3 @@
+    <!-- conten -->
+    @yield('content')
+    
